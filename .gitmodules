@@ -13,3 +13,6 @@
 [submodule "firefly-iii"]
 	path = firefly-iii
 	url = git@github.com:LuminousPath/helm-firefly-iii.git
+[submodule "akaunting"]
+	path = akaunting
+	url = git@github.com:LuminousPath/helm-akaunting.git
