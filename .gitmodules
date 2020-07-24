@@ -1,0 +1,15 @@
+[submodule "monica"]
+	path = monica
+	url = git@github.com:LuminousPath/helm-monica.git
+[submodule "huginn"]
+	path = huginn
+	url = git@github.com:LuminousPath/helm-huginn.git
+[submodule "riot-im"]
+	path = riot-im
+	url = git@github.com:LuminousPath/helm-riot-im.git
+[submodule "synapse"]
+	path = synapse
+	url = git@github.com:LuminousPath/helm-synapse.git
+[submodule "firefly-iii"]
+	path = firefly-iii
+	url = git@github.com:LuminousPath/helm-firefly-iii.git
