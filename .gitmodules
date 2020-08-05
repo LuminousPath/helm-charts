@@ -16,3 +16,12 @@
 [submodule "akaunting"]
 	path = akaunting
 	url = git@github.com:LuminousPath/helm-akaunting.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = git@github.com:LuminousPath/helm-nextcloud.git
+[submodule "prometheus"]
+	path = prometheus
+	url = git@github.com:LuminousPath/helm-prometheus.git
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:LuminousPath/helm-traefik.git
