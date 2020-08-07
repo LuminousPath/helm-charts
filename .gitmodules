@@ -28,3 +28,6 @@
 [submodule "tinytinyrss"]
 	path = tinytinyrss
 	url = git@github.com:LuminousPath/helm-tinytinyrss.git
+[submodule "freshrss"]
+	path = freshrss
+	url = git@github.com:LuminousPath/helm-freshrss.git
