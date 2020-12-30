@@ -31,3 +31,6 @@
 [submodule "freshrss"]
 	path = freshrss
 	url = git@github.com:LuminousPath/helm-freshrss.git
+[submodule "foundryvtt"]
+	path = foundryvtt
+	url = ./foundryvtt
