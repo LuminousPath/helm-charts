@@ -16,9 +16,6 @@
 [submodule "akaunting"]
 	path = akaunting
 	url = git@github.com:LuminousPath/helm-akaunting.git
-[submodule "nextcloud"]
-	path = nextcloud
-	url = git@github.com:LuminousPath/helm-nextcloud.git
 [submodule "prometheus"]
 	path = prometheus
 	url = git@github.com:LuminousPath/helm-prometheus.git
@@ -34,3 +31,6 @@
 [submodule "helm-foundrtyvtt"]
 	path = foundryvtt
 	url = git@github.com:LuminousPath/helm-foundrtyvtt.git
+[submodule "matrix"]
+	path = matrix
+	url = git@github.com:LuminousPath/matrix-chart.git
