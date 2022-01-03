@@ -34,3 +34,6 @@
 [submodule "matrix"]
 	path = matrix
 	url = git@github.com:LuminousPath/matrix-chart.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = git@github.com:LuminousPath/helm-nextcloud.git
