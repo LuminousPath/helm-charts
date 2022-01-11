@@ -34,3 +34,6 @@
 [submodule "nextcloud"]
 	path = nextcloud
 	url = git@github.com:LuminousPath/helm-nextcloud.git
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:LuminousPath/traefik-helm-chart.git
