@@ -19,9 +19,6 @@
 [submodule "prometheus"]
   path = prometheus
 	url = git@github.com:LuminousPath/helm-prometheus.git
-[submodule "traefik"]
-	path = traefik
-	url = git@github.com:LuminousPath/helm-traefik.git
 [submodule "tinytinyrss"]
 	path = tinytinyrss
 	url = git@github.com:LuminousPath/helm-tinytinyrss.git
